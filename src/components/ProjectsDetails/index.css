@@ -1,0 +1,19 @@
+.list-item {
+  width: 20%;
+  background-color: #ffffff;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 1px 0px 0px 0px #e2e8f0;
+}
+.items-image {
+  height: 150px;
+  width: 100%;
+  border-radius: 12px;
+}
+.project-name-text {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 600;
+  color: #475569;
+  margin: 5px;
+}

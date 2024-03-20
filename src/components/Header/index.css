@@ -1,0 +1,13 @@
+.header-background-container {
+  background-color: #cbd5e1;
+  height: 10vh;
+  padding: 30px;
+  padding-left: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.website-logo {
+  height: 50px;
+}
